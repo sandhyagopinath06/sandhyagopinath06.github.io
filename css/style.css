@@ -1,0 +1,18 @@
+#warped
+{
+     margin: 0 auto;
+     width: 100px;
+     height: 10px; 
+}
+
+.play {
+  border-style: solid;
+  margin:0 auto;
+  width:100px;
+  height:60px;
+  font-size:40px;
+  padding-top:5px;
+  text-align: center;
+   background-color: lightblue
+     
+}
